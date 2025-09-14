@@ -38,7 +38,8 @@ The project includes both **guest user flow** and **logged-in user flow**, showi
 ### 🙍‍♀️ Profile Page  
 <img width="600" height="2461" alt="Profile" src="https://github.com/user-attachments/assets/1a840303-60a6-413f-adf9-a716068580db" />
 
-➡️ View all design screens in the [screenshots folder](./screenshots).
+➡️ View all design screens in the [screenshots folder](https://github.com/ChamathkaDhanapala/Zyra-Fashion-E-Commerce-Website-UI-UX-Design/tree/main/Screenshots).
+
 
 ---
 
