@@ -38,7 +38,7 @@ The project includes both **guest user flow** and **logged-in user flow**, showi
 ### 🙍‍♀️ Profile Page  
 <img width="600" height="2461" alt="Profile" src="https://github.com/user-attachments/assets/1a840303-60a6-413f-adf9-a716068580db" />
 
-➡️ View all design screens in the [screenshots folder](./screenshots).  
+➡️ View all design screens in the [screenshots folder](./screenshots).
 
 ---
 
@@ -56,7 +56,7 @@ The project includes both **guest user flow** and **logged-in user flow**, showi
 ## 🔗 Prototype  
 
 👉 [View Interactive Prototype in Figma](#)  
-*((https://www.figma.com/proto/42KqBeWVUOZAK87u6hmsv3/Zyra?node-id=5-90&t=rSjm7N8vqWM028C2-1))*  
+*(https://www.figma.com/proto/42KqBeWVUOZAK87u6hmsv3/Zyra?node-id=5-90&t=f6wGkbfDQL58lxhn-1)*  
 
 ---
 
